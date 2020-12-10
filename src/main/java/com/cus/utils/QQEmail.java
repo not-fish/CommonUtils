@@ -6,7 +6,10 @@ import javax.mail.internet.MimeMessage;
 import java.util.Properties;
 
 /**
- * @author Peko
+ * @author Runoob
+ *
+ * https://www.runoob.com/java/java-sending-email.html
+ *
  */
 public class QQEmail {
     public static void main(String[] args) {
